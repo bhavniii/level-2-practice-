@@ -2,3 +2,4 @@
 I am learning Git and GitHub 
 this is my first repository 
 I am learning branches in Github 
+added branch practice notes 
